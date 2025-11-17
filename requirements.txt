@@ -1,0 +1,9 @@
+ultralytics==8.3.228
+ultralytics-thop==2.0.18
+roboflow==1.2.11
+torch==2.9.1
+torchvision==0.24.1
+numpy==2.2.6
+numpydoc
+matplotlib 
+matplotlib-inline
